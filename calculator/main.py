@@ -1,7 +1,6 @@
 from replit import clear
 # OBS: I maid the code in replit,so i imported the clear method to use . Other option is to create a clear function to clean the console
-import art
-from art import logo
+ import logo
 
 
 def adicao(first_number, second_number):
